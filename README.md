@@ -21,7 +21,7 @@ Recent advancements in large language models (LLMs) have driven impressive progr
 ![](assets/img/Screenshot.png)
 
 ### A Secure Image Transmission Scheme Using Chaos and Quantum Entanglement
-[arxiv]([https://www.mdpi.com/1424-8220/22/8/3048](https://arxiv.org/abs/2311.18471))
+[arxiv](https://arxiv.org/abs/2311.18471)
 
 The advent of quantum computing has introduced significant security challenges for conventional cryptographic systems, particularly in the realm of optical communications. This research addresses these challenges by pioneering a secure image transmission scheme that integrates quantum key distribution (QKD) using the E91 protocol with logistic chaotic maps. Leveraging the unpredictability of chaotic systems alongside the secure properties of quantum entanglement, our approach incorporates an eavesdropping detection mechanism based on the CHSH inequality. This feature enhances resilience against unauthorized access, ensuring robust data integrity and security.
 
@@ -31,5 +31,6 @@ Through extensive simulations, we demonstrate this scheme's high entropy, sensit
 
 ### We-Care
 [GitHub](https://github.com/Remian-9080/CSE-299_ASD-HELP)
+
 This Android-based project offers a supportive app for families of children with Autism Spectrum Disorder (ASD), connecting users with essential resources from schools, doctors, and NGOs. By serving as a bridge to close information gaps, the app ensures that families have easy access to relevant guidance, educational resources, and specialized support. Designed to empower users with timely and accurate information, the app fosters a more connected and supportive community for ASD-related care.
 
