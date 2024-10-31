@@ -6,10 +6,10 @@
 - B.S.CSE  | North South University (June 2023) | 
 
 ## Work Experience
-**Research Assistant @ Md. Shahriar Hussain, North South University ( May 2024 - Present )**
+**Research Assistant @ Md. Shahriar Hussain, North South University  ( May 2024 - Present )**
 - Researching detecting hallucinations in LLM models within the context of low-resource third-world countries, and introducing techniques to mitigate these challenges.
 
-**Research Assistant @ Dr. Razib Hayat Khan, North South University ( Aug 2023-Mar 2024 )**
+**Research Assistant @ Dr. Razib Hayat Khan, North South University  ( Aug 2023-Mar 2024 )**
 - Researched and identified information gaps and developed a data-driven Android app to provide essential resources for children with ASD, ensuring users have tailored access to crucial support and services.
 
 ## Projects
@@ -27,7 +27,7 @@ The advent of quantum computing has introduced significant security challenges f
 
 Through extensive simulations, we demonstrate this scheme's high entropy, sensitivity, and encryption efficiency, showcasing its potential as a defense against emerging quantum-based threats. The results illustrate the scheme's high effectiveness in encrypting images and highlight its promise in secure data transmission. By blending chaos theory with QKD, our work offers a novel framework for secure data and image handling in optical communications—essential for safeguarding sensitive information in an era of data vulnerability and quantum advancements.
 
-![EEG Band Discovery](assets/sit.jpg)
+![EEG Band Discovery](assets/img/sit.jpg)
 
 ### We-Care
 [GitHub](https://github.com/Remian-9080/CSE-299_ASD-HELP)
