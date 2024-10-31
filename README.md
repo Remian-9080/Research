@@ -17,8 +17,8 @@
 
 Recent advancements in large language models (LLMs) have driven impressive progress in question-answering tasks, though challenges such as hallucination and misinformation remain. Our project introduces QA, an Open Source Conversational AI system tailored for Bangladesh's History, designed to mitigate these issues by integrating LLMs with human-verified data sources. This innovative approach not only strengthens accuracy but also sets a foundation for scalable, domain-specific chat models that can maintain reliable information integrity across diverse applications.
 
-![](assets/eqa.png)
-![](assets/Screenshot.png)
+![](assets/img/eqa.png)
+![](assets/img/Screenshot.png)
 
 ### A Secure Image Transmission Scheme Using Chaos and Quantum Entanglement
 [arxiv]([https://www.mdpi.com/1424-8220/22/8/3048](https://arxiv.org/abs/2311.18471))
