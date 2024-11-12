@@ -14,7 +14,7 @@
 
 ## Projects
 ### Towards Accurate AI-Driven Historical QA: A Retrieval-Augmented Model for Bangladeshi History
-
+[GitHub](https://github.com/Remian-9080/Itihash-QA)
 Recent advancements in large language models (LLMs) have driven impressive progress in question-answering tasks, though challenges such as hallucination and misinformation remain. Our project introduces QA, an Open Source Conversational AI system tailored for Bangladesh's History, designed to mitigate these issues by integrating LLMs with human-verified data sources. This innovative approach not only strengthens accuracy but also sets a foundation for scalable, domain-specific chat models that can maintain reliable information integrity across diverse applications.
 
 ![](assets/img/eqa.png)
