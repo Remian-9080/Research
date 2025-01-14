@@ -6,9 +6,6 @@
 - B.S.CSE  | North South University (June 2023) | 
 
 ## Research Experience
-**Research Assistant @ Md. Shahriar Hussain, North South University - (May 2024 - Present)**
-- Researching detecting hallucinations in LLM models within the context of low-resource third-world countries, and introducing techniques to mitigate these challenges.
-
 **Research Assistant @ Dr. Razib Hayat Khan, North South University - (Aug 2023-Mar 2024)**
 - Researched and identified information gaps and developed a data-driven Android app to provide essential resources for children with ASD, ensuring users have tailored access to crucial support and services.
 
