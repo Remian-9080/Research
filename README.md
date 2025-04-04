@@ -1,6 +1,6 @@
 # Researcher
 
-#### Technical Skills: Python, SQL, Pytorch, MATLAB, Qiskit
+#### Technical Skills: Python, SQL, Pytorch, MATLAB, Qiskit, Apache Spark.
 
 ## Education 			        		
 - B.S.CSE  | North South University (June 2023) | 
