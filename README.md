@@ -7,10 +7,10 @@
 
 ## Research Experience
 **Research Assistant @ Dr. Razib Hayat Khan, North South University - (Aug 2023-Mar 2024)**
-- Researched and identified information gaps and developed a data-driven Android app to provide essential resources for children with ASD, ensuring users have tailored access to crucial support and services.
+-- Researched and identified information gaps and developed a data-driven Android app to provide essential resources for children with ASD, ensuring users have tailored access to crucial support and services.
 
 ### Publications
-- Mohammed Rakibul Hasan, Md Shawmoon Azad, Arabindu Das Himu, Raiyan Rahman, Sifat Momen (2024). Towards Accurate AI-Driven Historical QA: A Retrieval-Augmented Model for Bangladeshi History. [To be submitted]
+-- Mohammed Rakibul Hasan, Md Shawmoon Azad, Arabindu Das Himu, Raiyan Rahman, Sifat Momen (2024). Towards Accurate AI-Driven Historical QA: A Retrieval-Augmented Model for Bangladeshi History. [To be submitted]
 [GitHub](https://github.com/Remian-9080/Itihash-QA)
 
 Recent advancements in large language models (LLMs) have driven impressive progress in question-answering tasks, though challenges such as hallucination and misinformation remain. Our project introduces QA, an open-source conversational AI system tailored for Bangladesh's History, designed to mitigate these issues by integrating LLMs with human-verified data sources. This innovative approach not only strengthens accuracy but also sets a foundation for scalable, domain-specific chat models that can maintain reliable information integrity across diverse applications.
