@@ -10,7 +10,7 @@
 - Researched and identified information gaps and developed a data-driven Android app to provide essential resources for children with ASD, ensuring users have tailored access to crucial support and services.
 
 ## Publications
-# Mohammed Rakibul Hasan, Md Shawmoon Azad, Arabindu Das Himu, Raiyan Rahman,
+Mohammed Rakibul Hasan, Md Shawmoon Azad, Arabindu Das Himu, Raiyan Rahman,
 Sifat Momen (2024). Towards Accurate AI-Driven Historical QA: A Retrieval-Augmented Model
 for Bangladeshi History. [To be submitted]
 [GitHub](https://github.com/Remian-9080/Itihash-QA)
@@ -20,7 +20,7 @@ Recent advancements in large language models (LLMs) have driven impressive progr
 ![](assets/img/eqa.png)
 ![](assets/img/Screenshot.png)
 
-# Raiyan Rahman, Md Shawmoon Azad, Mohammed Rakibul Hasan, Syed Emad Uddin
+Raiyan Rahman, Md Shawmoon Azad, Mohammed Rakibul Hasan, Syed Emad Uddin
 Shubha, M.R.C. Mahdy (2023). Enhancing the security of image transmission in Quantum era:
 A Chaos-Assisted QKD Approach using entanglement. [Under review at IET Quantum Communication]
 [arxiv](https://arxiv.org/abs/2311.18471)
